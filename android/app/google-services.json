@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1088053751312",
+    "project_id": "signinn-a13ea",
+    "storage_bucket": "signinn-a13ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088053751312:android:919ac7f8543e85777c2495",
+        "android_client_info": {
+          "package_name": "com.example.expense_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088053751312-g64bg7leuav5lb0cf1atfgjbbmfnoak0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMwWJLPTB9lqMeQvyNtQsOAYPTSe5kx5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088053751312-g64bg7leuav5lb0cf1atfgjbbmfnoak0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

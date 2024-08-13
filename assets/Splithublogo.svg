@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="192" height="138.809" viewBox="0 0 192 138.809">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0"/>
+      <stop offset="1" stop-color="#474343"/>
+    </linearGradient>
+  </defs>
+  <g id="Splithub_logo" data-name="Splithub logo" transform="translate(-165 -647.191)">
+    <g id="noun-split-bill-646524" transform="translate(215.821 647.191)">
+      <g id="Group_172" data-name="Group 172" transform="translate(0.206)">
+        <g id="Group_171" data-name="Group 171" transform="translate(0)">
+          <g id="Group_169" data-name="Group 169">
+            <path id="Path_340" data-name="Path 340" d="M371.223,0h26.319a3.287,3.287,0,0,1,2.887,2.954V30.079L368,38.74V33.3l5.1-1.209,22.223-5.908V5.1H373.1V6.11H368V3.088A3.511,3.511,0,0,1,371.223,0Z" transform="translate(-343.306)" fill-rule="evenodd" fill="url(#linear-gradient)"/>
+            <path id="Path_341" data-name="Path 341" d="M20.535,131.59H30.4a5.184,5.184,0,0,0,.671-.067,2.123,2.123,0,0,0-.739-4.163H18.588c-3.693,0-7.788-.336-10.877.806-9.265,3.491-9.4,15.241-3.424,19.672L19.8,155.29c2.753,1.343,4.3-2.216,2.35-3.357l-5.17-3.088c-.739-.269-1.611-.94-.336-1.209l18.195-.067c2.417,0,3.021-3.961.067-4.028H20.535a.606.606,0,0,1-.6-.739h0a.645.645,0,0,1,.6-.47,5.9,5.9,0,0,1,1.611-.067H35.776c1.544.067,3.223-.134,3.223-2.148,0-2.283-2.216-2.081-3.357-2.081H24.832c-1.41,0-2.887-.067-4.3-.067a.61.61,0,0,1-.47-.2c-.134-.067-.134-.067-.134-.269a.634.634,0,0,1,.6-.739H34.3c1.343,0,2.618.067,2.618-1.947,0-1.88-1.276-2.014-2.618-2.014H20.535A.6.6,0,0,1,20.535,131.59Z" transform="translate(-0.206 -118.766)" fill-rule="evenodd" fill="url(#linear-gradient)"/>
+          </g>
+          <g id="Group_170" data-name="Group 170" transform="translate(30.803 30.951)">
+            <path id="Path_342" data-name="Path 342" d="M488.273,499.74H461.954A3.292,3.292,0,0,1,459,496.785V469.661L491.428,461v5.438l-5.1,1.209L464.1,473.622v21.015h22.223V493.63h5.1v3.021A3.5,3.5,0,0,1,488.273,499.74Z" transform="translate(-459 -461)" fill-rule="evenodd" fill="url(#linear-gradient)"/>
+            <path id="Path_343" data-name="Path 343" d="M750.463,513.554h-9.87a3.443,3.443,0,0,1-.671.067,2.127,2.127,0,0,0,.806,4.163H752.41c3.693.067,7.788.336,10.877-.806,9.332-3.491,9.4-15.241,3.424-19.672l-15.442-7.453c-2.82-1.343-4.364,2.216-2.417,3.357l5.17,3.088c.739.336,1.611.94.336,1.208l-18.195.067c-2.417,0-3.021,3.961-.067,4.028h14.368a.606.606,0,0,1,.6.739v.067a.68.68,0,0,1-.6.4,5.9,5.9,0,0,1-1.611.067H735.223c-1.477,0-3.223.134-3.223,2.148,0,2.283,2.216,2.081,3.357,2.081h10.81c1.477,0,2.887.067,4.3.067a.609.609,0,0,1,.47.2c.134.067.134.134.134.268a.606.606,0,0,1-.6.739H736.7c-1.276,0-2.619-.067-2.619,1.947,0,1.88,1.276,2.014,2.619,2.014h13.764A.6.6,0,0,1,750.463,513.554Z" transform="translate(-713.671 -487.638)" fill-rule="evenodd" fill="url(#linear-gradient)"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Group_179" data-name="Group 179" transform="translate(43.491 36.5)">
+      <text id="Split" transform="translate(121.509 737.5)" font-size="47" font-family="ClashDisplay-Semibold, Clash Display" font-weight="600" letter-spacing="0.02em"><tspan x="0" y="0">Split</tspan></text>
+      <text id="Hub" transform="translate(230.509 737.5)" font-size="42" font-family="ClashDisplay-Medium, Clash Display" font-weight="500"><tspan x="0" y="0">Hub</tspan></text>
+    </g>
+  </g>
+</svg>
